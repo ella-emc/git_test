@@ -1,1 +1,3 @@
 This is me starting out my web development journey.
+I started becoming interested in web development in freshman year of high school, but I never really got the chance to immerse myself in it until recently. I hope that The Odin Project helps me in this endeavor.
+Best of luck to me!
